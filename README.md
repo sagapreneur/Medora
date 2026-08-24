@@ -1,11 +1,50 @@
-<div align="center">
+PROJECT NAME:
+Medora
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+CATEGORY:
+Healthcare
 
-  <h1>Built with AI Studio</h2>
+PROJECT TYPE:
+Healthcare Management Platform
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+PLATFORMS:
+Web Application
+Mobile Application
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+SERVICES:
+UI/UX Design
+Web Application Development
+EMR/HMS Development
+Mobile App Development
 
-</div>
+PRIMARY ROUTE:
+/work/medora
+
+DESCRIPTION:
+A unified healthcare management platform connecting doctors,
+clinic teams and patients through appointments, electronic
+medical records, prescriptions, reports and communication.
+
+KEY FEATURES:
+Patient Management
+Electronic Medical Records
+Appointments
+Doctor Workspace
+Prescription Management
+Lab Reports
+Analytics
+Messaging
+Patient Mobile Experience
+
+TECHNOLOGY:
+React
+TypeScript
+Tailwind CSS
+Framer Motion
+
+BACKEND:
+None
+Frontend mock data only
+
+PORTFOLIO STATUS:
+Ready for Kardecode portfolio integration

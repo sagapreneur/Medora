@@ -1,0 +1,6 @@
+{
+  "name": "Medora",
+  "description": "A unified healthcare management platform connecting doctors, clinic teams, and patients with EMR, appointment management, clinical workspace, and patient portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
